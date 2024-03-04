@@ -8,8 +8,4 @@ public class LoginTest extends BeforeAfterTest{
 	public void loginTestMethod() {
 		
 	}
-	
-	
-
-	
 }
