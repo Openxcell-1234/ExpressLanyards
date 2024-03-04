@@ -17,14 +17,7 @@ public class LoginTest extends BeforeAfterTest{
 	public void loginTestMethod3() {
 		
 	}
-	@Test
-	public void loginTestMethod31() {
-		
-	}
+	
 
-	@Test
-	public void loginTestMethod312() {
-		
-	}
-
+	
 }
