@@ -22,6 +22,9 @@ public class LoginTest extends BeforeAfterTest{
 		
 	}
 
-
+	@Test
+	public void loginTestMethod312() {
+		
+	}
 
 }
