@@ -8,4 +8,9 @@ public class LoginTest extends BeforeAfterTest{
 	public void loginTestMethod() {
 		
 	}
+	
+	@Test
+	public void loginTestMethod7() {
+		
+	}
 }
