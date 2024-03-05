@@ -1,5 +1,6 @@
 package testClasses;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class LoginTest extends BeforeAfterTest{
@@ -7,19 +8,8 @@ public class LoginTest extends BeforeAfterTest{
 	@Test
 	public void loginTestMethod() {
 		
+		Assert.assertTrue(false);
 	}
 	
-	@Test
-	public void loginTestMethod7() {
-		
-		
-	}
-	@Test
-	public void loginTestMethod9() {
-		
-	}
-	@Test
-	public void loginTestMethod10() {
-		
-	}
+	
 }
